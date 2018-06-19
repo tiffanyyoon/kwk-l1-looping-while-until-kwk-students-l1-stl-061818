@@ -3,6 +3,7 @@ def using_while
   while counter < 10 
     puts "Wingardium Leviosa"
     puts ""
+    #end 
   counter = counter + 1
     puts "Level: #{counter}"
 end 
