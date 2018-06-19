@@ -1,6 +1,6 @@
 def using_untiluntil 
   counter = 0 
-   until counter < 10 
+   until counter = 10 
     puts "Wingardium Leviosa"
     puts ""
   counter = counter + 1
